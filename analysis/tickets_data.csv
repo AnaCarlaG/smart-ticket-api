@@ -1,0 +1,28 @@
+id,description,title,category,priority,summary
+1,Meu computador não liga depois que caiu no chão,Computador não liga após queda,Hardware,ALTA,"Computador não liga após queda no chão, precisamos verificar se há danos físicos"
+2,Preciso de acesso ao sistema de RH urgente,Acesso ao sistema de RH,Acesso,ALTA,Precisamos de acesso ao sistema de RH para realizar tarefas urgentes
+3,A impressora do setor financeiro está sem papel e toner,Falta de papel e toner na impressora do setor financeiro,Hardware,ALTA,Reabastecer papel e toner na impressora do setor financeiro
+4,Esqueci minha senha do e-mail corporativo,Recuperação de Senha de E-mail Corporativo,Acesso,ALTA,Recuperação de senha de e-mail corporativo para acesso ao e-mail
+5,O sistema de ponto eletrônico está fora do ar,Sistema de Ponto Eletrônico fora do ar,Software,ALTA,"O sistema de ponto eletrônico está indisponível, impossibilitando a marcação de ponto dos funcionários."
+6,Meu notebook está superaquecendo e desligando sozinho,Notebook superaquecendo e desligando,Hardware,ALTA,"Notebook está superaquecendo e desligando sozinho, precisamos identificar a causa e resolver o problema"
+7,Não consigo acessar a VPN de casa,Problema de acesso à VPN,Acesso,ALTA,O usuário não consegue acessar a VPN de casa
+8,O monitor está com listras na tela,Monitor com listras na tela,Hardware,ALTA,"O monitor está apresentando listras na tela, afetando a visualização de informações."
+9,Preciso instalar o pacote Office na minha máquina,Instalação do Pacote Office,Software,MÉDIA,Instalar o pacote Office na máquina
+10,O Wi-Fi do escritório está muito lento hoje,Wi-Fi lento no escritório,Rede,MÉDIA,O Wi-Fi do escritório está apresentando problemas de velocidade.
+11,Recebi um e-mail suspeito com link pedindo minha senha,E-mail suspeito com link de senha,Acesso,ALTA,Recebi um e-mail suspeito com link pedindo minha senha
+12,O HD externo não está sendo reconhecido pelo Windows,HD Externo não Reconhecido,Hardware,ALTA,"O HD externo não está sendo reconhecido pelo Windows, necessitando de atenção urgente."
+13,Preciso de permissão para acessar a pasta do projeto X,Permissão para Pasta do Projeto X,Acesso,MÉDIA,Preciso de permissão para acessar a pasta do projeto X
+14,O sistema de vendas travou durante um fechamento importante,Sistema de Vendas Travou,Software,ALTA,"O sistema de vendas travou durante um fechamento importante, afetando a produtividade da equipe."
+15,Meu teclado está com várias teclas paradas de funcionar,Teclado com teclas paradas,Hardware,ALTA,Teclado com várias teclas não funcionando
+16,Não consigo abrir arquivos PDF no meu computador,Arquivos PDF não abrem,Software,MÉDIA,O usuário não consegue abrir arquivos PDF no seu computador
+17,O servidor de arquivos está inacessível para toda a equipe,Servidor de Arquivos Inacessível,Hardware,ALTA,"O servidor de arquivos está inacessível para toda a equipe, impedindo o acesso a arquivos compartilhados."
+18,Preciso urgente redefinir minha senha do sistema ERP,Redefinição de Senha do ERP,Acesso,ALTA,Redefinir senha do sistema ERP para garantir acesso seguro
+19,A webcam não está funcionando para reuniões no Teams,Webcam não funciona em reuniões no Teams,Hardware,ALTA,A webcam não está funcionando durante reuniões no Microsoft Teams
+20,Suspeito que meu computador está com vírus,Suspeita de vírus,Software,ALTA,Verificar a presença de vírus em computador
+21,meu computador esta fazendo um barulho estranho,Barulho estranho no computador,Hardware,MÉDIA,O computador está fazendo um barulho estranho e precisa de atenção
+22,"meu computador esta saiundo uma fumaça vermelha e fazendo barulho de um avião decolando
+",Fumaça e Barulho no Computador,Hardware,ALTA,"O computador está emitindo fumaça vermelha e fazendo um barulho alto, similar a um avião decolando."
+23,"meu computador esta saindo uma fumaça vermelha e fazendo barulho de um avião decolando
+",Fumaça e Barulho em Computador,Hardware,ALTA,"Computador emite fumaça vermelha e faz barulho de avião decolando, possivelmente indicando problema de segurança"
+24,"meu computador esta saindo uma fumaça vermelha e fazendo barulho de um avião decolando
+",Fumaça Vermelha e Barulho de Avião,Hardware,ALTA,"Computador emite fumaça vermelha e faz barulho de avião decolando, possivelmente indicando problema de segurança"
