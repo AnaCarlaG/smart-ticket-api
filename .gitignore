@@ -209,3 +209,9 @@ __marimo__/
 
 *.pyc
 .DS_Store
+
+# Smart Ticket API
+.env
+.env.example
+analysis/tickets_data.csv
+analysis/dashboard.png
